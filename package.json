@@ -4,6 +4,7 @@
     "description": "React Password Component for npm",
     "main": "./lib/PasswordInput.js",
     "license": "MIT",
+    "author": "Mahesh Maharana",
     "scripts": {
         "build": "webpack"
     },
